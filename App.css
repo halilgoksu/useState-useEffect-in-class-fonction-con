@@ -1,0 +1,16 @@
+
+.container{
+    margin: 5%;
+    background-color: rgba(0, 0, 0, 0.173);
+}
+.usestate{
+    margin: 5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 1rem;
+    border: solid black ;
+
+
+
+  }
